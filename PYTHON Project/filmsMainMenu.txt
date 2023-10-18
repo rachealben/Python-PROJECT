@@ -1,0 +1,11 @@
+Hello!
+Welcome to Flim Flix ;
+Here are The Films Main Menu Options.
+1. Add a record 
+2. Delete a record  
+3. Amend a record 
+4. Print all records 
+5. Report
+6. Exit
+
+ 
